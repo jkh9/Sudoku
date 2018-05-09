@@ -1,0 +1,11 @@
+C:\Users\jkh9L\source\repos\Sudoku\Sudoku\bin\Debug\Sudoku.exe.config
+C:\Users\jkh9L\source\repos\Sudoku\Sudoku\bin\Debug\Sudoku.exe
+C:\Users\jkh9L\source\repos\Sudoku\Sudoku\bin\Debug\Sudoku.pdb
+C:\Users\jkh9L\source\repos\Sudoku\Sudoku\obj\Debug\Sudoku.csprojResolveAssemblyReference.cache
+C:\Users\jkh9L\source\repos\Sudoku\Sudoku\obj\Debug\Sudoku.PantallaPrincipal.resources
+C:\Users\jkh9L\source\repos\Sudoku\Sudoku\obj\Debug\Sudoku.Properties.Resources.resources
+C:\Users\jkh9L\source\repos\Sudoku\Sudoku\obj\Debug\Sudoku.csproj.GenerateResource.Cache
+C:\Users\jkh9L\source\repos\Sudoku\Sudoku\obj\Debug\Sudoku.csproj.CoreCompileInputs.cache
+C:\Users\jkh9L\source\repos\Sudoku\Sudoku\obj\Debug\Sudoku.exe
+C:\Users\jkh9L\source\repos\Sudoku\Sudoku\obj\Debug\Sudoku.pdb
+C:\Users\jkh9L\source\repos\Sudoku\Sudoku\obj\Debug\Sudoku.PantallaNumeritos.resources
